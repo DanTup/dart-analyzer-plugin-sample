@@ -1,0 +1,13 @@
+name: dartcode_plugin_4223_target
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+  dartcode_plugin_4223_host:
+    path: /Users/danny/Desktop/dart_samples/dart-analyzer-plugin-sample/host

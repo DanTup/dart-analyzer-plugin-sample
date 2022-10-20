@@ -1,0 +1,3 @@
+analyzer:
+  plugins:
+    - dartcode_plugin_4223_host
